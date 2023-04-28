@@ -594,6 +594,12 @@ header{
   cursor: default;
 }
 
+.card img{
+  margin-top: .3rem;
+  width: 45%;
+  height: auto;
+}
+
 .card i{
 font-size: 5rem;
 }
